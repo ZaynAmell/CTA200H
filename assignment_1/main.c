@@ -1,4 +1,4 @@
-#This is a commit change
+/*is a commit change*/
 #include <stdio.h>
 #include "average.h"
 
